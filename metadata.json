@@ -1,0 +1,6 @@
+{
+  "name": "WILDROAD 3D",
+  "description": "Offline 3D open-world driving and exploration simulator with forests, rivers, bridges, dynamic weather, AI traffic, and living wildlife.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
